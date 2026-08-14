@@ -2,8 +2,8 @@
 
 An asynchronous Terminal User Interface (TUI) for managing NetworkManager WireGuard and VPN connections, built with **Rust**, **Ratatui**, and **Tokio**.
 
-![Demo](<img width="678" height="355" alt="image" src="https://github.com/user-attachments/assets/1168d540-8b90-4fbe-932b-09942041fa60" />
-)
+<img width="678" height="355" alt="image" src="https://github.com/user-attachments/assets/a78ec667-e996-46a2-a4bb-4dd8dd32d243" />
+
 
 ---
 
