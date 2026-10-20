@@ -58,6 +58,7 @@ Before running `wg-tui`, make sure your Linux system has the following dependenc
 | `j` / `k` or `↓` / `↑` | Scroll through configuration list |
 | `Enter` / `l` | Toggle active VPN state or import selected `.conf` file |
 | `d` | Mark selected VPN profile as default autoconnect |
+| 'D' | Unmark selected VPN profile as default|
 | `/` | Search and filter connections |
 | `r` | Hot-reload `theme.json` and refresh active connection lists |
 | `i` | Fetch / force refresh public GeoIP details |
